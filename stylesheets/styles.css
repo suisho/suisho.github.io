@@ -12,7 +12,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #362c28;
   background:#D1B692;
-  font-weight:300;
+  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -42,7 +42,7 @@ h3, h4, h5, h6 {
 
 a {
   color:#362c28;
-  font-weight:400;
+  font-weight:600;
   text-decoration:none;
 }
 a:hover {
