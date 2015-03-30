@@ -1,14 +1,22 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-
+/* Coolors Exported Palette - coolors.co/d62246-d9b88b-362c28-36393b-3e6990 */
+/*
+$color1: #d62246;
+$color2: #d9b88b;
+$color3: #362c28;
+$color4: #36393b;
+$color5: #3e6990;
+*/
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color: #362c28;
+  background:#D1B692;
   font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#d62246;
   margin:0 0 20px;
 }
 
@@ -33,11 +41,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#362c28;
   font-weight:400;
   text-decoration:none;
 }
-
+a:hover {
+  text-decoration:underline;
+}
 a small {
   font-size:11px;
   color:#777;
